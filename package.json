@@ -11,7 +11,7 @@
   ],
   "dependencies": {
     "d3": "^4.12.2",
-    "dagre": "^0.8.4",
+    "dagre": "samueldjack/dagre",
     "graphlib": "^2.1.7",
     "lodash": "^4.17.15"
   },
